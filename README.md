@@ -14,3 +14,11 @@
 
 - GithubCode: [Pytorch-LSTM-Jupyter](https://github.com/RodolfoLSS/stock-prediction-pytorch)
 - 原文链接: https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632
+
+### Stock-Prediction-Models
+
+> 大量股票预测模型
+
+参考资料
+
+- GithubCode: [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)
